@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "ABOUT ME"
+title: "test"
 permalink: /
 author_profile: true
 
