@@ -3,6 +3,7 @@ layout: about
 title: "ABOUT ME"
 permalink: /
 author_profile: true
+
 ---
 
 ## Harshad Ingle, PhD
