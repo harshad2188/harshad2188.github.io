@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 
 ---
-
+# ABOUT ME
 ## Harshad Ingle, PhD
 Functional Genomics Scientist | CRISPR Screening | Target Discovery
 
