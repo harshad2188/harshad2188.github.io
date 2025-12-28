@@ -5,13 +5,13 @@ permalink: /
 author_profile: true
 ---
 
-# ***ABOUT ME***
+# ABOUT ME
 ## Harshad Ingle, PhD
 Functional Genomics Scientist | CRISPR Screening | Target Discovery
 
 I am a functional genomics scientist with deep expertise in CRISPR screening and host–pathogen biology, focused on identifying and validating druggable targets in complex biological systems. My work integrates pooled CRISPR screens, physiologically relevant cell models, and immunology to uncover host dependency factors and viral entry mechanisms. I have led cross-functional screening efforts resulting in first-in-class receptor discoveries as potential targets for antiviral therapies.
 
-# ***SCIENTIFIC FOCUS***
+# SCIENTIFIC FOCUS
 
 ## Functional Genomics & CRISPR Screening
 I design and execute pooled CRISPR knockout and activation screens to identify host factors and biological pathways relevant to infection, immunity, and therapeutic targeting. My experience spans assay design, screen optimization in complex systems, hit prioritization, and downstream validation.
@@ -22,7 +22,7 @@ I investigate how viruses engage host cellular machinery, with an emphasis on re
 ## Organoids and Complex Biological Models
 I develop and apply human intestinal organoids, immune cell coculture systems, and in vivo infection models to interrogate host–pathogen interactions and immune responses in physiologically relevant contexts. These complementary systems provide mechanistic insight and biological context that inform target discovery and downstream validation efforts.
 
-# ***SELECTED CONTRIBUTIONS***
+# SELECTED CONTRIBUTIONS
 
 ## Human Astrovirus Receptor Discovery
 **Nature Microbiology, 2024**
