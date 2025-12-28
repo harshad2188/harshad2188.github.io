@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: about
 title: "HELLO"
+permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 # Harshad Ingle, PhD
